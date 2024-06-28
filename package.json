@@ -1,0 +1,16 @@
+{
+  "name": "haxball",
+  "main": "server.js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "AmChiwa",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-haxball": "^1.2.0"
+  }
+}
